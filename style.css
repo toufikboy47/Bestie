@@ -785,7 +785,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 400px;
+    height: 450px;
     background: var(--gradient-cream);
     transition: all 0.4s ease;
 }
@@ -1109,7 +1109,7 @@ body {
     .wish-text, .letter-text { font-size: 0.95rem; }
     .gallery-section { padding: 18px 10px 40px; }
     .gallery-grid { grid-template-columns: 1fr; gap: 15px; }
-    .photo-placeholder { height: 350px; }
+    .photo-placeholder { height: 450px; }
     .photo-icon { font-size: 3rem; }
     .photo-text { font-size: 1rem; }
     .photo-overlay { padding: 15px; }
@@ -1157,7 +1157,7 @@ body {
     .cake-emoji { font-size: 3rem; }
     .wishes-title, .letters-title { font-size: 1.8rem; }
     .wish-card, .letter { padding: 18px 12px; }
-    .photo-placeholder { height: 320px; }
+    .photo-placeholder { height: 450px; }
     .photo-icon { font-size: 2.5rem; }
     .quote-content { padding: 25px 15px; }
     .quote-text { font-size: 1rem; }
@@ -1179,7 +1179,7 @@ body {
     .decoration-item { font-size: 1.3rem; }
     .welcome-title { font-size: 1.6rem; }
     .cake-emoji { font-size: 2.5rem; }
-    .photo-placeholder { height: 160px; }
+    .photo-placeholder { height: 450px; }
     .footer-message { font-size: 1.2rem; }
     
     /* Allah Wishes Popup Responsive */
@@ -1197,7 +1197,7 @@ body {
     .container { padding: 8px; }
     .title { font-size: 1.6rem; }
     .subtitle { font-size: 1.3rem; }
-    .photo-placeholder { height: 280px; }
+    .photo-placeholder { height: 450px; }
     .timeline-content { padding: 15px; }
     .timeline-content h3 { font-size: 1.2rem; }
 }
